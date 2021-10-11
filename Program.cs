@@ -56,25 +56,34 @@ namespace Esercizio_1
                 //Il keychar proprio per prendere il carattere
 
 
-                switch (choice)
+                switch (choice.ToString().ToUpper())
                 {
-                    case '1':
+                    case "1":
                         int sum = Sum(num1, num2);
                         Console.WriteLine($"\nLa somma è: {sum}");
                         break;
-                    case '2':
-                        int sottr = Sottrazione(num1, num2);
+                    case "2":
+                        int sottr = Subtract(num1, num2);
                         Console.WriteLine($"\nLa sottrazione è: {sottr}");
                         break;
-                    case '3':
-                        int molt = Moltiplicazione(num1, num2);
+                    case "3":
+                        int molt = Multiply(num1, num2);
                         Console.WriteLine($"\nLa moltiplicazione è: {molt}");
                         break;
-                    case '4':
-                        int div = Divisione(num1, num2);
+                    case "4":
+
+                        if (num2 == 0)
+                        {
+                            Console.WriteLine("\nImpossibile se il denominatore è zero!");
+                        }
+                        else
+                        {
+
+                        double div = Divide(num1, num2);
                         Console.WriteLine($"\nLa divisione è: {div}");
+                        }
                         break;
-                    case 'Q':
+                    case "Q":
                         exit = false;
                         break;
 
@@ -104,19 +113,18 @@ namespace Esercizio_1
 
         }
 
-        private static int Divisione(int n, int m)
+        private static double Divide(double n, double m)
         {
-            int div = n / m;
-            return div;   
+                double div = n / m;
+                return div;
         }
-
-        private static int Moltiplicazione(int n, int m)
+        private static int Multiply(int n, int m)
         {
             int molt = n * m;
             return molt;    
         }
 
-        private static int Sottrazione(int n, int m)
+        private static int Subtract(int n, int m)
         {
             int sottr = n - m;
             return sottr;  
