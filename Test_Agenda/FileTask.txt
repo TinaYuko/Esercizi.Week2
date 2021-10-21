@@ -1,0 +1,10 @@
+
+
+DESCRIZIONE: fare la spesa
+SCADENZA: 16/10/2021 10:30:00
+PRIORITA': Medio
+
+
+DESCRIZIONE: fare una torta
+SCADENZA: 07/06/2022 21:30:00
+PRIORITA': Medio

@@ -1,0 +1,16 @@
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\bin\Debug\net5.0\Test_Agenda.exe
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\bin\Debug\net5.0\Test_Agenda.deps.json
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\bin\Debug\net5.0\Test_Agenda.runtimeconfig.json
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\bin\Debug\net5.0\Test_Agenda.runtimeconfig.dev.json
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\bin\Debug\net5.0\Test_Agenda.dll
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\bin\Debug\net5.0\ref\Test_Agenda.dll
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\bin\Debug\net5.0\Test_Agenda.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.csproj.AssemblyReference.cache
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.AssemblyInfoInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.AssemblyInfo.cs
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.csproj.CoreCompileInputs.cache
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.dll
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\ref\Test_Agenda.dll
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.pdb
+C:\Users\Marti\Desktop\Pink Academy\Week2\Test_Agenda\obj\Debug\net5.0\Test_Agenda.genruntimeconfig.cache
